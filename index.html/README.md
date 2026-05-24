@@ -1,6 +1,3 @@
-Stylesheet: [style.css](../style.css)
-
-<!doctype html>
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
