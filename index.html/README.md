@@ -1,3 +1,4 @@
+Stylesheet: [style.css](../style.css)
 
 <!doctype html>
 <html lang="en">
